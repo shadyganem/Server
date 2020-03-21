@@ -1,0 +1,1832 @@
+[22-Jan-2020 12:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp6u8n.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp6u8n.php on line 16
+[22-Jan-2020 12:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpedct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpedct.php on line 16
+[22-Jan-2020 12:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpkqhk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpkqhk.php on line 16
+[22-Jan-2020 12:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpy4rb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpy4rb.php on line 16
+[23-Jan-2020 00:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp1smo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp1smo.php on line 16
+[23-Jan-2020 00:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpk0ic.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpk0ic.php on line 16
+[23-Jan-2020 00:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpizvr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpizvr.php on line 16
+[23-Jan-2020 00:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpkeez.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpkeez.php on line 16
+[23-Jan-2020 12:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnmud.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnmud.php on line 16
+[23-Jan-2020 12:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpfbte.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpfbte.php on line 16
+[23-Jan-2020 12:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpaoul.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpaoul.php on line 16
+[23-Jan-2020 12:42:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmggt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmggt.php on line 16
+[24-Jan-2020 12:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvq20.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvq20.php on line 16
+[24-Jan-2020 12:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphnch.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphnch.php on line 16
+[24-Jan-2020 12:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxbop.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxbop.php on line 16
+[24-Jan-2020 12:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpypci.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpypci.php on line 16
+[25-Jan-2020 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp154v.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp154v.php on line 16
+[25-Jan-2020 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpihms.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpihms.php on line 16
+[25-Jan-2020 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpysot.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpysot.php on line 16
+[25-Jan-2020 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp4qsl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp4qsl.php on line 16
+[26-Jan-2020 12:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpzcgl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpzcgl.php on line 16
+[26-Jan-2020 12:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpibqw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpibqw.php on line 16
+[26-Jan-2020 12:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpgcor.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpgcor.php on line 16
+[26-Jan-2020 12:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprsst.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprsst.php on line 16
+[27-Jan-2020 12:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpysmc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpysmc.php on line 16
+[27-Jan-2020 12:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp9xwr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp9xwr.php on line 16
+[27-Jan-2020 12:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplxq4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplxq4.php on line 16
+[27-Jan-2020 12:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp8cvt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp8cvt.php on line 16
+[28-Jan-2020 00:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpsfly.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpsfly.php on line 16
+[28-Jan-2020 00:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp1f1p.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp1f1p.php on line 16
+[28-Jan-2020 00:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp2gkp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp2gkp.php on line 16
+[28-Jan-2020 00:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpg0q1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpg0q1.php on line 16
+[28-Jan-2020 12:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpz1pv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpz1pv.php on line 16
+[28-Jan-2020 12:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnenk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnenk.php on line 16
+[28-Jan-2020 12:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpeujw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpeujw.php on line 16
+[28-Jan-2020 12:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp6lwq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp6lwq.php on line 16
+[28-Jan-2020 18:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpg4uw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpg4uw.php on line 16
+[28-Jan-2020 18:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpsjco.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpsjco.php on line 16
+[28-Jan-2020 18:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpk17x.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpk17x.php on line 16
+[28-Jan-2020 18:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmpvg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmpvg.php on line 16
+[29-Jan-2020 12:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvrpi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvrpi.php on line 16
+[29-Jan-2020 12:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpssfw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpssfw.php on line 16
+[29-Jan-2020 12:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwqng.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwqng.php on line 16
+[29-Jan-2020 12:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wps6cy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wps6cy.php on line 16
+[29-Jan-2020 18:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp12bv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp12bv.php on line 16
+[29-Jan-2020 18:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp1tr2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp1tr2.php on line 16
+[29-Jan-2020 18:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvg0s.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvg0s.php on line 16
+[29-Jan-2020 18:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphusk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphusk.php on line 16
+[30-Jan-2020 12:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpm0y5.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpm0y5.php on line 16
+[30-Jan-2020 12:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphoao.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphoao.php on line 16
+[30-Jan-2020 12:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wperez.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wperez.php on line 16
+[30-Jan-2020 12:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpetow.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpetow.php on line 16
+[31-Jan-2020 00:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp1aij.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp1aij.php on line 16
+[31-Jan-2020 00:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp11n8.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp11n8.php on line 16
+[31-Jan-2020 00:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvmag.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvmag.php on line 16
+[31-Jan-2020 00:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpx4eu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpx4eu.php on line 16
+[31-Jan-2020 12:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplfvk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplfvk.php on line 16
+[31-Jan-2020 12:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp2fvk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp2fvk.php on line 16
+[31-Jan-2020 12:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxeby.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxeby.php on line 16
+[31-Jan-2020 12:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpqt2q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpqt2q.php on line 16
+[01-Feb-2020 07:11:45 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 4
+[01-Feb-2020 07:11:54 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 4
+[01-Feb-2020 07:11:55 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 4
+[01-Feb-2020 07:12:33 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 6
+[01-Feb-2020 07:12:34 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 6
+[01-Feb-2020 07:13:01 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 6
+[01-Feb-2020 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 6
+[01-Feb-2020 07:28:46 UTC] PHP Parse error:  syntax error, unexpected '$angle' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/post.php on line 6
+[01-Feb-2020 07:31:10 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:31:14 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:31:18 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:31:20 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:31:52 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:31:58 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:32:00 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:32:02 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 07:34:12 UTC] PHP Notice:  Undefined variable: _POst in /home/i1kl08gqwp8b/public_html/post.php on line 8
+[01-Feb-2020 12:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpftzm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpftzm.php on line 16
+[01-Feb-2020 12:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpskgg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpskgg.php on line 16
+[01-Feb-2020 12:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmv7b.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmv7b.php on line 16
+[01-Feb-2020 12:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpcv5l.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpcv5l.php on line 16
+[02-Feb-2020 12:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpe2sc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpe2sc.php on line 16
+[02-Feb-2020 12:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp7dq8.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp7dq8.php on line 16
+[02-Feb-2020 12:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvilu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvilu.php on line 16
+[02-Feb-2020 12:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp9wq7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp9wq7.php on line 16
+[02-Feb-2020 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphqfc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphqfc.php on line 16
+[02-Feb-2020 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpjsl9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpjsl9.php on line 16
+[02-Feb-2020 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpztsd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpztsd.php on line 16
+[02-Feb-2020 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpegyj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpegyj.php on line 16
+[03-Feb-2020 00:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppone.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppone.php on line 16
+[03-Feb-2020 00:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpgftg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpgftg.php on line 16
+[03-Feb-2020 00:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wptdhr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wptdhr.php on line 16
+[03-Feb-2020 00:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwii6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwii6.php on line 16
+[03-Feb-2020 12:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbfyv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbfyv.php on line 16
+[03-Feb-2020 12:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwqqm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwqqm.php on line 16
+[03-Feb-2020 12:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxium.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxium.php on line 16
+[03-Feb-2020 12:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpojyr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpojyr.php on line 16
+[03-Feb-2020 18:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpqtir.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpqtir.php on line 16
+[03-Feb-2020 18:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp7bzi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp7bzi.php on line 16
+[03-Feb-2020 18:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpiayx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpiayx.php on line 16
+[03-Feb-2020 18:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpcoqn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpcoqn.php on line 16
+[03-Feb-2020 18:54:04 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:06 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:06 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:07 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:08 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:09 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:10 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:11 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:12 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:13 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:14 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:16 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:17 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:26 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:54:28 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:55:24 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:55:24 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:55:25 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:55:26 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:55:34 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:56:03 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:56:03 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[03-Feb-2020 18:56:09 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/post.php on line 7
+[04-Feb-2020 12:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvomi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvomi.php on line 16
+[04-Feb-2020 12:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp1rbl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp1rbl.php on line 16
+[04-Feb-2020 12:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpiqnr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpiqnr.php on line 16
+[04-Feb-2020 12:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpugy9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpugy9.php on line 16
+[04-Feb-2020 17:55:36 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 7
+[04-Feb-2020 17:55:36 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 8
+[04-Feb-2020 17:55:53 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 7
+[04-Feb-2020 17:55:53 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 8
+[04-Feb-2020 17:56:01 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 7
+[04-Feb-2020 17:56:01 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 8
+[04-Feb-2020 18:04:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:04:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:05:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:06:39 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:06:39 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 18:07:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index1.php on line 29
+[04-Feb-2020 18:07:19 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:07:19 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 18:09:25 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:09:25 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 18:09:26 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:09:26 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 18:21:21 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:21:21 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 18:21:27 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[04-Feb-2020 18:21:27 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[04-Feb-2020 19:20:10 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:20:10 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 19:20:36 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:20:36 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 19:21:23 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:21:23 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 19:23:07 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:23:07 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 19:23:09 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:23:09 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 19:23:21 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 19:23:21 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:47:52 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:47:52 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:52:19 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:52:19 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:52:22 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:52:22 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:52:54 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:52:54 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:52:59 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:52:59 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 20:56:50 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 20:56:50 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:00:36 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:00:36 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:00:50 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:00:50 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:01:27 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:01:27 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:02:00 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:02:00 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:02:01 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:02:01 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:02:10 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:02:10 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:04:33 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:04:33 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 5
+[04-Feb-2020 21:13:36 UTC] PHP Parse error:  syntax error, unexpected 'fclose' (T_STRING) in /home/i1kl08gqwp8b/public_html/index.php on line 12
+[04-Feb-2020 21:13:43 UTC] PHP Parse error:  syntax error, unexpected 'fclose' (T_STRING) in /home/i1kl08gqwp8b/public_html/index.php on line 12
+[04-Feb-2020 21:13:53 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:13:56 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:23:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:26:14 UTC] PHP Warning:  file_get_contents(http://example.com/example.json/): failed to open stream: Connection timed out in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:26:14 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:26:15 UTC] PHP Warning:  file_get_contents(http://example.com/example.json/): failed to open stream: Connection timed out in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:26:15 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:26:16 UTC] PHP Warning:  file_get_contents(http://example.com/example.json/): failed to open stream: Connection timed out in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:26:16 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 11
+[04-Feb-2020 21:26:16 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 12
+[04-Feb-2020 21:27:10 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:27:17 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:27:22 UTC] PHP Warning:  file_get_contents(http://example.com/example.json/): failed to open stream: Connection timed out in /home/i1kl08gqwp8b/public_html/index.php on line 4
+[04-Feb-2020 21:27:22 UTC] PHP Warning:  Creating default object from empty value in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:28:00 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:28:21 UTC] PHP Warning:  Attempt to assign property 'motor3' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 22
+[04-Feb-2020 21:36:54 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:36:54 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:36:57 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:36:57 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:37:05 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:37:05 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 134
+[04-Feb-2020 21:37:38 UTC] PHP Parse error:  syntax error, unexpected '$motor' (T_VARIABLE), expecting ',' or ';' in /home/i1kl08gqwp8b/public_html/index.php on line 11
+[04-Feb-2020 21:37:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:37:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:37:47 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:37:47 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:37:48 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:37:48 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:38:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:38:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:38:08 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:38:08 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:38:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '`' in /home/i1kl08gqwp8b/public_html/index.php on line 216
+[04-Feb-2020 21:39:05 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:39:07 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:39:09 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:39:09 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 135
+[04-Feb-2020 21:39:11 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:17 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:18 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:18 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:18 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:19 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:53 UTC] PHP Notice:  Array to string conversion in /home/i1kl08gqwp8b/public_html/index.php on line 7
+[04-Feb-2020 21:39:53 UTC] PHP Warning:  Attempt to assign property 'motor2' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 19
+[04-Feb-2020 21:39:55 UTC] PHP Notice:  Array to string conversion in /home/i1kl08gqwp8b/public_html/index.php on line 7
+[04-Feb-2020 21:39:55 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:40:08 UTC] PHP Notice:  Undefined offset: 0 in /home/i1kl08gqwp8b/public_html/index.php on line 7
+[04-Feb-2020 21:40:08 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:40:09 UTC] PHP Notice:  Undefined offset: 0 in /home/i1kl08gqwp8b/public_html/index.php on line 7
+[04-Feb-2020 21:40:09 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:40:16 UTC] PHP Notice:  Undefined offset: 2 in /home/i1kl08gqwp8b/public_html/index.php on line 7
+[04-Feb-2020 21:40:16 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:40:47 UTC] PHP Warning:  Attempt to assign property 'motor1' of non-object in /home/i1kl08gqwp8b/public_html/index.php on line 16
+[04-Feb-2020 21:59:53 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 140
+[04-Feb-2020 21:59:53 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 140
+[04-Feb-2020 22:04:10 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 140
+[04-Feb-2020 22:04:10 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 140
+[04-Feb-2020 22:04:41 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:04:41 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:04:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:04:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:07 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:07 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:16 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:16 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:31 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:09:31 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:11:31 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:11:31 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:04 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:04 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:05 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:05 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:05 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:05 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:14:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[04-Feb-2020 22:15:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[04-Feb-2020 22:15:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[04-Feb-2020 22:15:30 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[04-Feb-2020 22:15:30 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[04-Feb-2020 22:15:41 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:41 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[04-Feb-2020 22:15:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 00:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplhhr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplhhr.php on line 16
+[05-Feb-2020 00:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwfcg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwfcg.php on line 16
+[05-Feb-2020 00:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpb4dm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpb4dm.php on line 16
+[05-Feb-2020 00:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpo7to.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpo7to.php on line 16
+[05-Feb-2020 01:30:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 01:30:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 08:07:21 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 08:07:21 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 08:07:31 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 08:07:31 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 12:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpg3po.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpg3po.php on line 16
+[05-Feb-2020 12:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpewgv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpewgv.php on line 16
+[05-Feb-2020 12:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplldc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplldc.php on line 16
+[05-Feb-2020 12:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpduhq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpduhq.php on line 16
+[05-Feb-2020 18:52:32 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 18:52:32 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 18:52:36 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 18:52:36 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 184
+[05-Feb-2020 19:07:50 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/i1kl08gqwp8b/public_html/index.php on line 13
+[05-Feb-2020 19:07:53 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/i1kl08gqwp8b/public_html/index.php on line 13
+[05-Feb-2020 19:08:11 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[05-Feb-2020 19:08:11 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[05-Feb-2020 19:08:26 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[05-Feb-2020 19:08:26 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 181
+[05-Feb-2020 19:09:33 UTC] PHP Parse error:  syntax error, unexpected '$motors_data_back' (T_VARIABLE) in /home/i1kl08gqwp8b/public_html/index.php on line 34
+[05-Feb-2020 19:09:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:09:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:09:50 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:09:50 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:07 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:07 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 183
+[05-Feb-2020 19:10:27 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:27 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:49 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:49 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:51 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:51 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:52 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:10:52 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:11:01 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:11:01 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:12:44 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:12:44 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:12:49 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:12:49 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:13:03 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:13:03 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:13:37 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:13:37 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:38:58 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:38:58 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:39:21 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:39:21 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:43:10 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:43:10 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:35 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:47:37 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:47:37 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:47:56 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:47:56 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:48:05 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:48:05 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:48:13 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:48:13 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:52:08 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 19:52:08 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 19:52:09 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 19:52:09 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:32:49 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:32:49 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:42:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:42:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:42:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:42:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:44:50 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 20:44:50 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 20:45:05 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 20:45:05 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 20:45:18 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[05-Feb-2020 20:45:18 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[05-Feb-2020 20:48:37 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:48:37 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:51:48 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:51:48 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:58:17 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[05-Feb-2020 20:58:17 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[05-Feb-2020 20:58:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[05-Feb-2020 20:58:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 01:48:57 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 01:48:57 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 06:20:20 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 06:20:20 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:24:52 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:24:52 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:40:33 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 08:40:33 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 08:42:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:42:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:42:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:42:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:47:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:47:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:49:37 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:49:37 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:50:09 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:50:09 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 08:52:32 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 08:52:32 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 08:53:37 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 08:53:37 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:04:12 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:04:12 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:04:32 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:04:32 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:05:02 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:05:02 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:06:11 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 09:06:11 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 182
+[06-Feb-2020 09:31:59 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:31:59 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:32:14 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:32:14 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:33:23 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:33:23 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:38:32 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:38:32 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:38:45 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:38:45 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:38:57 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:38:57 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:38:57 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:57 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:59 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:59 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:59 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:38:59 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:01 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:02 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:02 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 193
+[06-Feb-2020 09:39:19 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:19 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:22 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:22 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:22 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:22 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:54 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:54 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 195
+[06-Feb-2020 09:39:57 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:39:57 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:39:57 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:39:57 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:40:17 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:40:17 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:40:39 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:40:39 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:40:56 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:40:56 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 09:41:04 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index.php on line 9
+[06-Feb-2020 09:41:04 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index.php on line 10
+[06-Feb-2020 12:39:48 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 12:39:48 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 12:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpdukp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpdukp.php on line 16
+[06-Feb-2020 12:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpi80l.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpi80l.php on line 16
+[06-Feb-2020 12:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphkza.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphkza.php on line 16
+[06-Feb-2020 12:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wptgzd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wptgzd.php on line 16
+[06-Feb-2020 12:58:46 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 12:58:46 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 18:48:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 18:48:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 23:59:25 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[06-Feb-2020 23:59:25 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 08:35:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 08:35:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 12:33:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 12:33:07 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 12:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpkvkz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpkvkz.php on line 16
+[07-Feb-2020 12:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpphlv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpphlv.php on line 16
+[07-Feb-2020 12:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpdwho.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpdwho.php on line 16
+[07-Feb-2020 12:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp8ino.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp8ino.php on line 16
+[07-Feb-2020 19:49:29 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[07-Feb-2020 19:49:29 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 01:42:00 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 01:42:00 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 10:39:30 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 10:39:30 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpk9qh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpk9qh.php on line 16
+[08-Feb-2020 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpeyma.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpeyma.php on line 16
+[08-Feb-2020 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp3wch.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp3wch.php on line 16
+[08-Feb-2020 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnc16.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnc16.php on line 16
+[08-Feb-2020 14:45:53 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 14:45:53 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:25:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:25:24 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:25:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:25:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:29:24 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:29:24 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:33:41 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 15:33:41 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 18:48:36 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[08-Feb-2020 18:48:36 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[09-Feb-2020 03:23:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[09-Feb-2020 03:23:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[09-Feb-2020 11:11:52 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[09-Feb-2020 11:11:52 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[09-Feb-2020 13:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpijhj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpijhj.php on line 16
+[09-Feb-2020 13:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpoxz8.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpoxz8.php on line 16
+[09-Feb-2020 13:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwx73.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwx73.php on line 16
+[09-Feb-2020 13:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wptiy6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wptiy6.php on line 16
+[10-Feb-2020 13:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpp3qy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpp3qy.php on line 16
+[10-Feb-2020 13:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpk7fh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpk7fh.php on line 16
+[10-Feb-2020 13:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpzhjd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpzhjd.php on line 16
+[10-Feb-2020 13:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wptwl2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wptwl2.php on line 16
+[10-Feb-2020 15:02:49 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[10-Feb-2020 15:02:49 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[10-Feb-2020 16:55:22 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[10-Feb-2020 16:55:22 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[10-Feb-2020 16:55:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[10-Feb-2020 16:55:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 00:37:10 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 00:37:10 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 00:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpcrvn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpcrvn.php on line 16
+[11-Feb-2020 00:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpymlv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpymlv.php on line 16
+[11-Feb-2020 00:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpydzf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpydzf.php on line 16
+[11-Feb-2020 00:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpavtp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpavtp.php on line 16
+[11-Feb-2020 01:26:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 01:26:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:20:46 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:20:46 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:25 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:25 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:27 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:27 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:24:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:25:12 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:25:12 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:43:45 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:43:45 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:43:45 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:43:45 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:45:08 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 02:45:08 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 05:28:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 05:28:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 10:03:40 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 10:03:40 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 12:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpkurw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpkurw.php on line 16
+[11-Feb-2020 12:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpehuv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpehuv.php on line 16
+[11-Feb-2020 12:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpq6wg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpq6wg.php on line 16
+[11-Feb-2020 12:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmfwp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmfwp.php on line 16
+[11-Feb-2020 12:52:12 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 12:52:12 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 16:58:53 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[11-Feb-2020 16:58:53 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 02:42:18 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 02:42:18 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 07:59:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 07:59:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 10:25:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 10:25:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[12-Feb-2020 12:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnvuq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnvuq.php on line 16
+[12-Feb-2020 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpoqfy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpoqfy.php on line 16
+[12-Feb-2020 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpgtej.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpgtej.php on line 16
+[12-Feb-2020 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp3hxb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp3hxb.php on line 16
+[12-Feb-2020 18:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxctp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxctp.php on line 16
+[12-Feb-2020 18:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpyhnd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpyhnd.php on line 16
+[12-Feb-2020 18:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp5c6i.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp5c6i.php on line 16
+[12-Feb-2020 18:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpoqpl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpoqpl.php on line 16
+[13-Feb-2020 00:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpexzu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpexzu.php on line 16
+[13-Feb-2020 00:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxu4w.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxu4w.php on line 16
+[13-Feb-2020 00:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppxgk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppxgk.php on line 16
+[13-Feb-2020 00:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpabxz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpabxz.php on line 16
+[13-Feb-2020 01:12:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 01:12:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 05:44:22 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 05:44:22 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 11:29:55 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 11:29:55 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 12:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpx7pg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpx7pg.php on line 16
+[13-Feb-2020 12:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp576n.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp576n.php on line 16
+[13-Feb-2020 12:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpd0up.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpd0up.php on line 16
+[13-Feb-2020 12:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpaqdi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpaqdi.php on line 16
+[13-Feb-2020 13:33:17 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 13:33:17 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 16:36:59 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 16:36:59 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 18:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpn7tn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpn7tn.php on line 16
+[13-Feb-2020 18:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp7xma.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp7xma.php on line 16
+[13-Feb-2020 18:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbsm4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbsm4.php on line 16
+[13-Feb-2020 18:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpj4x9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpj4x9.php on line 16
+[13-Feb-2020 18:58:50 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 18:58:50 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 22:16:15 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[13-Feb-2020 22:16:15 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 00:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpj7xj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpj7xj.php on line 16
+[14-Feb-2020 00:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpfzjt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpfzjt.php on line 16
+[14-Feb-2020 00:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpyesy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpyesy.php on line 16
+[14-Feb-2020 00:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp5dot.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp5dot.php on line 16
+[14-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 09:38:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 09:53:13 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 09:53:13 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 12:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprbml.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprbml.php on line 16
+[14-Feb-2020 12:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpzheo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpzheo.php on line 16
+[14-Feb-2020 12:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpquw6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpquw6.php on line 16
+[14-Feb-2020 12:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpqm5d.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpqm5d.php on line 16
+[14-Feb-2020 13:12:09 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:12:09 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:19:38 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[14-Feb-2020 13:19:38 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[14-Feb-2020 13:20:15 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:15 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:17 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:17 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:18 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:18 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:19 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:19 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:20 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:20 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:20 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:20 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:21 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:21 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:21 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:21 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:41 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:41 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:20:45 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/index.php on line 199
+[14-Feb-2020 13:42:04 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/i1kl08gqwp8b/public_html/index.php on line 11
+[14-Feb-2020 13:42:06 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/i1kl08gqwp8b/public_html/index.php on line 11
+[14-Feb-2020 13:42:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 13:42:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 20
+[14-Feb-2020 14:24:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:37 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:37 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:38 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:38 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:47 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:24:47 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:25:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 14:25:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 15:39:12 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:39:12 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:39:12 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:11 UTC] PHP Notice:  Undefined variable:  in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:40:31 UTC] PHP Notice:  Undefined variable:  in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:40:45 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:45 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:45 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:49 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:49 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:49 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:55 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:55 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:40:55 UTC] PHP Warning:  A non-numeric value encountered in /home/i1kl08gqwp8b/public_html/index.php on line 86
+[14-Feb-2020 15:41:15 UTC] PHP Notice:  Undefined variable:  in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:41:27 UTC] PHP Notice:  Undefined variable: 123456 in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:41:38 UTC] PHP Notice:  Undefined variable: 123456 in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:41:47 UTC] PHP Notice:  Undefined variable: 123456 in /home/i1kl08gqwp8b/public_html/index.php on line 74
+[14-Feb-2020 15:42:16 UTC] PHP Notice:  Undefined variable:  in /home/i1kl08gqwp8b/public_html/index.php on line 75
+[14-Feb-2020 15:48:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/i1kl08gqwp8b/public_html/index.php on line 77
+[14-Feb-2020 15:48:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/i1kl08gqwp8b/public_html/index.php on line 77
+[14-Feb-2020 15:48:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 77
+[14-Feb-2020 15:48:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 77
+[14-Feb-2020 15:48:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 77
+[14-Feb-2020 15:53:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 78
+[14-Feb-2020 15:53:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 78
+[14-Feb-2020 15:53:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 78
+[14-Feb-2020 15:53:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 78
+[14-Feb-2020 16:03:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 79
+[14-Feb-2020 16:03:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 79
+[14-Feb-2020 16:04:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 79
+[14-Feb-2020 16:04:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 79
+[14-Feb-2020 16:06:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/i1kl08gqwp8b/public_html/index.php on line 79
+[14-Feb-2020 16:09:39 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:09:39 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:11:19 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:11:19 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:14:58 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:14:58 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:15:02 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:15:25 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:15:25 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:16:30 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:16:30 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:16:55 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:16:55 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:05 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:16 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:17:16 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:10 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:10 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:11 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:11 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:12 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:18:12 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:50 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:19:50 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:20:55 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:20:55 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 199
+[14-Feb-2020 16:23:39 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:23:39 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:25:55 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:25:55 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:26:28 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:26:28 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:26:46 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:26:46 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:27:32 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:27:32 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:28:32 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:28:32 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 200
+[14-Feb-2020 16:30:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:30:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:30:57 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:30:57 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:31:29 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:31:29 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:31:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:31:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:32:06 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:32:06 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:33:05 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:33:05 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:33:12 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/main.php on line 9
+[14-Feb-2020 16:33:12 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/main.php on line 10
+[14-Feb-2020 16:33:29 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:33:29 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:36:25 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:36:25 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:37:02 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:37:02 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:43:39 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 16:43:39 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 17:46:01 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 17:46:01 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 164
+[14-Feb-2020 17:49:42 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:49:42 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:49:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:49:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:50:22 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:50:22 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 167
+[14-Feb-2020 17:50:24 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/main.php on line 9
+[14-Feb-2020 17:50:24 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/main.php on line 10
+[14-Feb-2020 17:50:24 UTC] PHP Notice:  Undefined index: mode in /home/i1kl08gqwp8b/public_html/main.php on line 11
+[14-Feb-2020 17:51:19 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/main.php on line 9
+[14-Feb-2020 17:51:19 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/main.php on line 10
+[14-Feb-2020 17:51:19 UTC] PHP Notice:  Undefined index: mode in /home/i1kl08gqwp8b/public_html/main.php on line 11
+[14-Feb-2020 17:51:21 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/main.php on line 9
+[14-Feb-2020 17:51:21 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/main.php on line 10
+[14-Feb-2020 17:51:21 UTC] PHP Notice:  Undefined index: mode in /home/i1kl08gqwp8b/public_html/main.php on line 11
+[14-Feb-2020 17:54:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:54:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:54:36 UTC] PHP Notice:  Undefined variable: mode in /home/i1kl08gqwp8b/public_html/main.php on line 46
+[14-Feb-2020 17:54:36 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:54:36 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:32 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:32 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:45 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:55:45 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 178
+[14-Feb-2020 17:58:49 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:58:49 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:58:51 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:58:51 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:23 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:23 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:49 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:49 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:55 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 17:59:55 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[14-Feb-2020 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbkwo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbkwo.php on line 16
+[14-Feb-2020 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp3gom.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp3gom.php on line 16
+[14-Feb-2020 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvmxu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvmxu.php on line 16
+[14-Feb-2020 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpn33a.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpn33a.php on line 16
+[15-Feb-2020 12:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwcnh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwcnh.php on line 16
+[15-Feb-2020 12:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpktsk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpktsk.php on line 16
+[15-Feb-2020 12:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp99fq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp99fq.php on line 16
+[15-Feb-2020 12:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppsxk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppsxk.php on line 16
+[16-Feb-2020 12:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpcmla.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpcmla.php on line 16
+[16-Feb-2020 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplsj3.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplsj3.php on line 16
+[16-Feb-2020 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpyboi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpyboi.php on line 16
+[16-Feb-2020 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpg2od.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpg2od.php on line 16
+[16-Feb-2020 17:51:43 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:51:43 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:51:46 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:51:46 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:19 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:19 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:27 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:27 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:44 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[16-Feb-2020 17:52:44 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[17-Feb-2020 12:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpc8py.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpc8py.php on line 16
+[17-Feb-2020 12:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmveb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmveb.php on line 16
+[17-Feb-2020 12:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpyyiq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpyyiq.php on line 16
+[17-Feb-2020 12:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpodcl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpodcl.php on line 16
+[18-Feb-2020 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp9zlr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp9zlr.php on line 16
+[18-Feb-2020 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvm8a.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvm8a.php on line 16
+[18-Feb-2020 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwh79.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwh79.php on line 16
+[18-Feb-2020 00:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxcbn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxcbn.php on line 16
+[18-Feb-2020 12:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprysy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprysy.php on line 16
+[18-Feb-2020 12:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpgkv2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpgkv2.php on line 16
+[18-Feb-2020 12:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpaapb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpaapb.php on line 16
+[18-Feb-2020 12:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpuiye.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpuiye.php on line 16
+[18-Feb-2020 15:28:09 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[18-Feb-2020 15:28:09 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpkxa1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpkxa1.php on line 16
+[19-Feb-2020 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpqb48.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpqb48.php on line 16
+[19-Feb-2020 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpjtek.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpjtek.php on line 16
+[19-Feb-2020 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp3pee.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp3pee.php on line 16
+[19-Feb-2020 20:28:19 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:28:19 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:28:34 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:28:34 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:29:02 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:29:02 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:29:40 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:29:40 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:30:17 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:30:17 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:34:30 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[19-Feb-2020 20:34:30 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[20-Feb-2020 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwpbu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwpbu.php on line 16
+[20-Feb-2020 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvpge.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvpge.php on line 16
+[20-Feb-2020 12:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpi1lm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpi1lm.php on line 16
+[20-Feb-2020 12:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpayou.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpayou.php on line 16
+[21-Feb-2020 13:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp7lsb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp7lsb.php on line 16
+[21-Feb-2020 13:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplu4f.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplu4f.php on line 16
+[21-Feb-2020 13:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwqt9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwqt9.php on line 16
+[21-Feb-2020 13:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpoep4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpoep4.php on line 16
+[22-Feb-2020 13:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpavto.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpavto.php on line 16
+[22-Feb-2020 13:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpul3c.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpul3c.php on line 16
+[22-Feb-2020 13:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp8eod.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp8eod.php on line 16
+[22-Feb-2020 13:04:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbn1q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbn1q.php on line 16
+[23-Feb-2020 13:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpv9s9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpv9s9.php on line 16
+[23-Feb-2020 13:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwzao.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwzao.php on line 16
+[23-Feb-2020 13:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp22l2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp22l2.php on line 16
+[23-Feb-2020 13:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwjst.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwjst.php on line 16
+[24-Feb-2020 13:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpof12.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpof12.php on line 16
+[24-Feb-2020 13:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpc61d.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpc61d.php on line 16
+[24-Feb-2020 13:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvcc7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvcc7.php on line 16
+[24-Feb-2020 13:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpohf4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpohf4.php on line 16
+[25-Feb-2020 01:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmq4o.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmq4o.php on line 16
+[25-Feb-2020 01:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpk8pr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpk8pr.php on line 16
+[25-Feb-2020 01:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpp8mi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpp8mi.php on line 16
+[25-Feb-2020 01:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp09ei.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp09ei.php on line 16
+[25-Feb-2020 12:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpxoqd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpxoqd.php on line 16
+[25-Feb-2020 12:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwfoj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwfoj.php on line 16
+[25-Feb-2020 12:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprnqt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprnqt.php on line 16
+[25-Feb-2020 12:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpuqfv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpuqfv.php on line 16
+[26-Feb-2020 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp0umi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp0umi.php on line 16
+[26-Feb-2020 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpir2x.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpir2x.php on line 16
+[26-Feb-2020 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpfvg7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpfvg7.php on line 16
+[26-Feb-2020 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp0m6z.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp0m6z.php on line 16
+[26-Feb-2020 12:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp3luu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp3luu.php on line 16
+[26-Feb-2020 12:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp9kbs.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp9kbs.php on line 16
+[26-Feb-2020 12:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp0thz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp0thz.php on line 16
+[26-Feb-2020 12:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppume.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppume.php on line 16
+[27-Feb-2020 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpjl1m.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpjl1m.php on line 16
+[27-Feb-2020 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpvp3f.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpvp3f.php on line 16
+[27-Feb-2020 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp63wr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp63wr.php on line 16
+[27-Feb-2020 12:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnatq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnatq.php on line 16
+[28-Feb-2020 00:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpwxsz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpwxsz.php on line 16
+[28-Feb-2020 00:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpjumt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpjumt.php on line 16
+[28-Feb-2020 00:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbnhg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbnhg.php on line 16
+[28-Feb-2020 00:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppaf7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppaf7.php on line 16
+[28-Feb-2020 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpovwh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpovwh.php on line 16
+[28-Feb-2020 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpw3an.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpw3an.php on line 16
+[28-Feb-2020 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpmutf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpmutf.php on line 16
+[28-Feb-2020 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpnkcr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpnkcr.php on line 16
+[28-Feb-2020 18:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpihxn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpihxn.php on line 16
+[28-Feb-2020 18:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wplfrd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wplfrd.php on line 16
+[28-Feb-2020 18:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpcm3z.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpcm3z.php on line 16
+[28-Feb-2020 18:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpzgys.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpzgys.php on line 16
+[29-Feb-2020 12:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppgo1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppgo1.php on line 16
+[29-Feb-2020 12:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpyvja.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpyvja.php on line 16
+[29-Feb-2020 12:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpf1j4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpf1j4.php on line 16
+[29-Feb-2020 12:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbcrv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbcrv.php on line 16
+[01-Mar-2020 12:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpquhk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpquhk.php on line 16
+[01-Mar-2020 12:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpqyf0.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpqyf0.php on line 16
+[01-Mar-2020 12:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpikvn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpikvn.php on line 16
+[01-Mar-2020 12:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wphf9g.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wphf9g.php on line 16
+[02-Mar-2020 13:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpavvd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpavvd.php on line 16
+[02-Mar-2020 13:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp27p1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp27p1.php on line 16
+[02-Mar-2020 13:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpowhm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpowhm.php on line 16
+[02-Mar-2020 13:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpf9vr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpf9vr.php on line 16
+[03-Mar-2020 06:57:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpc9a4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpc9a4.php on line 16
+[03-Mar-2020 06:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpb0tq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpb0tq.php on line 16
+[03-Mar-2020 06:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpegyh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpegyh.php on line 16
+[03-Mar-2020 06:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpoliz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpoliz.php on line 16
+[03-Mar-2020 12:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpbybn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpbybn.php on line 16
+[03-Mar-2020 12:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp32f6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp32f6.php on line 16
+[03-Mar-2020 12:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprclr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprclr.php on line 16
+[03-Mar-2020 12:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpaqum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpaqum.php on line 16
+[04-Mar-2020 12:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wprs3y.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wprs3y.php on line 16
+[04-Mar-2020 12:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpm6ga.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpm6ga.php on line 16
+[04-Mar-2020 12:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpsjjm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpsjjm.php on line 16
+[04-Mar-2020 12:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpztxy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpztxy.php on line 16
+[05-Mar-2020 00:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpjbry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpjbry.php on line 16
+[05-Mar-2020 00:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpovp2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpovp2.php on line 16
+[05-Mar-2020 00:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wppjte.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wppjte.php on line 16
+[05-Mar-2020 00:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpds7g.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpds7g.php on line 16
+[05-Mar-2020 13:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpudil.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpudil.php on line 16
+[05-Mar-2020 13:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpeuzm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpeuzm.php on line 16
+[05-Mar-2020 13:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wpddvu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wpddvu.php on line 16
+[05-Mar-2020 13:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/i1kl08gqwp8b/public_html/deleteme.wp2cg3.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/i1kl08gqwp8b/public_html/deleteme.wp2cg3.php on line 16
+[05-Mar-2020 17:31:34 UTC] PHP Notice:  Undefined index: motor in /home/i1kl08gqwp8b/public_html/index1.php on line 4
+[05-Mar-2020 17:31:34 UTC] PHP Notice:  Undefined index: angle in /home/i1kl08gqwp8b/public_html/index1.php on line 5
+[05-Mar-2020 17:31:53 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[05-Mar-2020 17:31:53 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[05-Mar-2020 17:36:47 UTC] PHP Notice:  Undefined variable: motor in /home/i1kl08gqwp8b/public_html/main.php on line 179
+[05-Mar-2020 17:36:47 UTC] PHP Notice:  Undefined variable: angle in /home/i1kl08gqwp8b/public_html/main.php on line 179

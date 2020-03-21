@@ -1,0 +1,38 @@
+body
+{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.MainHeader
+{
+	background-color: #004d4d;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+.wrapper 
+{
+	text-align: center;
+}
+
+.control
+{
+	display: inline-block;
+	align-items: center;
+}
+
+.MainFooter
+{
+	background-color: #004d4d;
+	color: white;
+	padding: 10px;
+	margin:0px;	
+	text-align: center;
+	width: 100%;
+}
+
+
+
+
+
