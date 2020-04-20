@@ -10,6 +10,7 @@ $username_dict  = array( 'Admin' => '123456','Rotem' => '123456' );
 <html>
 <head>
 	<title>Robotic Arm Login</title>
+	<script data-ad-client="ca-pub-6249131436002040" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<style type="text/css">
 		body
 		{
@@ -59,7 +60,7 @@ $username_dict  = array( 'Admin' => '123456','Rotem' => '123456' );
 </head>
 <body>
 	<header class="MainHeader">
-		<h1> Never Give up on you dream farts - ROBOTIC ARM <h1>
+		<h1> ROBOTIC ARM <h1>
 	</header>
 	<div class="main">
 
